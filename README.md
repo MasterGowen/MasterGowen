@@ -1,7 +1,9 @@
 ### Hi there 👋
 
+![MasterGowen's GitHub stats](https://github-readme-stats.vercel.app/api?username=MasterGowen&count_private=true)
+
 <!--
-**MasterGowen/MasterGowen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**MasterGowen/MasterGowen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile
 
 Here are some ideas to get you started:
 
