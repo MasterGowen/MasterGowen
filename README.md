@@ -1,4 +1,6 @@
-### Hi there 👋
+###
+
+![](poster.jpeg)
 
 ![MasterGowen's GitHub stats](https://github-readme-stats.vercel.app/api?username=MasterGowen&count_private=true)
 
